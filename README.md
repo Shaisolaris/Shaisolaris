@@ -1,6 +1,6 @@
 # Shai Solaris
 
-**Full-stack engineer and technical lead** with 18 years of experience designing and delivering production systems across SaaS, e-commerce, mobile, and AI-integrated platforms. Based in Los Angeles, CA.
+**Technical Lead** with 18 years of experience designing and delivering production systems across SaaS, e-commerce, mobile, and AI-integrated platforms. Based in Los Angeles, CA.
 
 I work across the full stack — from architecture and API design through to front-end delivery and DevOps — with a focus on systems that are maintainable, scalable, and built to last. I've led delivery on projects ranging from greenfield SaaS builds to complex legacy migrations, working with teams across time zones and with clients across industries.
 
