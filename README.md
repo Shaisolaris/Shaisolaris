@@ -1,4 +1,4 @@
-# Shai Solaris
+# ShaiSolaris
 
 **Technical Lead** · Los Angeles, CA · shaisolaris@gmail.com
 
