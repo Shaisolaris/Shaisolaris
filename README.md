@@ -9,11 +9,11 @@ Open-source work in AI agent systems and automation, developer tooling, mobile a
 ## Featured projects
 
 - [solaris-dev-shop](https://github.com/Shaisolaris/solaris-dev-shop): AI agent workforce, 61 specialist skills, deterministic routing, MIT
-- [app](https://github.com/Shaisolaris/app): mobile client for Israel Railways, React Native/Expo
 - [laravel-property-portal](https://github.com/Shaisolaris/laravel-property-portal): full-stack property listing platform with search, filters, admin panel, and role-based access, Laravel
-- [compose-lint](https://github.com/Shaisolaris/compose-lint): security linter for Docker Compose files, grounded in OWASP and CIS Docker Benchmark
-- [CONTINUUM](https://github.com/Shaisolaris/CONTINUUM): verifiable semantic recovery for long-running AI agents, with semantic checkpoints, an idempotent action ledger, a hash-chained event log, and an MCP server
-- [django-modern-rest](https://github.com/Shaisolaris/django-modern-rest): modern REST framework for Django with types and async support
+- [flutter-closet](https://github.com/Shaisolaris/flutter-closet): fashion resale marketplace app, feed with likes and offers, buy now, sell flow with pricing tips, Flutter
+- [flutter-eventix](https://github.com/Shaisolaris/flutter-eventix): event tickets app, discovery with filters, seat tiers, checkout, QR wallet, Flutter
+- [flutter-groczy](https://github.com/Shaisolaris/flutter-groczy): grocery delivery app, aisle browsing, cart with substitutions, delivery slots, order tracking, Flutter
+- [flutter-habitly](https://github.com/Shaisolaris/flutter-habitly): habit tracker app, daily check-ins, streaks, heatmap stats, Flutter
 
 ## Areas of work
 
