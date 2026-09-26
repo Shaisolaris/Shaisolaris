@@ -2,7 +2,7 @@
 
 Senior full-stack engineer. I've been shipping product for 18 years.
 
-Expert Vetted on Upwork, $450k+ delivered, Top 1% rank.
+$600k+ delivered on Upwork.
 
 Day to day I work in React, Node, Python, .NET, and Flutter. The public repos here are real code: web platforms, mobile apps, and developer tools.
 
